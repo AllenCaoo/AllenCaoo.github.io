@@ -5139,3 +5139,17 @@ a img {
 .devicon-sql-plain.colored {
     color: #ea2d2e
 }
+
+.p-link {
+    background-image: linear-gradient(to right, rgba(228, 218, 82, 0) 50%, rgb(255, 254, 193) 50%);
+    background-position: -0% 0;
+    background-size: 200% auto;
+    color: rgb(56, 149, 236);
+    text-decoration: none;
+    transition: background-position 0.5s ease-out;
+}
+  
+.p-link:hover 
+{
+    background-position: -99.99% 0;
+}
