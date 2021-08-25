@@ -4823,11 +4823,10 @@ a img {
 #particles-js {
     background: #02a7e9;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #01917d, #1488CC);
+    background: -webkit-linear-gradient(to bottom right, #fff896, #1488CC);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #01917d, #1488CC);
+    background: linear-gradient(to bottom right, #fff896, #1488CC);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
     display: flex;
     vertical-align: bottom;
     width: 100%;
@@ -4866,7 +4865,13 @@ a img {
 @media only screen and (min-width:550px) {
     .header .site-title {
         margin: 0;
-        font-size: 100px
+        font-size: 100px;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        -o-user-select: none;
+        user-select: none;
     }
 }
 
@@ -4875,7 +4880,13 @@ a img {
     display: block;
     line-height: 1;
     color: #fff;
-    margin-top: 10px
+    margin-top: 10px;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
 }
 
 @media only screen and (min-width:550px) {
@@ -5106,14 +5117,20 @@ a img {
 .footer {
     background: #1488CC;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #01917d, #1488CC);
+    background: -webkit-linear-gradient(to right, #fff896, #1488CC);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #01917d, #1488CC);
+    background: linear-gradient(to right, #fff896, #1488CC);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     padding: 10px 0;
     margin-top: 100px;
     text-align: center;
-    color: #fff
+    color: #fff;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
 }
 
 .footer .love {
