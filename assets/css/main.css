@@ -4906,6 +4906,15 @@ a img {
     margin: 10px
 }
 
+.link {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
 @media only screen and (min-width:550px) {
     .header-links .link {
         font-size: 20px
