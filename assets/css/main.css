@@ -5238,7 +5238,7 @@ details[open] summary ~ * {
 }
 
 .icon-out:hover {
-    background-color: #000;
+    background-color: rgb(60, 29, 119);
     transition: background-color 0.5s ease;
 }
 
@@ -5256,4 +5256,8 @@ details[open] summary ~ * {
 
 #icon-tree-trav {
     content: url('../img/jpg/tree_traversal.jpg');
+}
+
+#icon-hashing {
+    content: url('../img/jpg/hashing.jpg');
 }
