@@ -5231,14 +5231,14 @@ details[open] summary ~ * {
 }
 
 .icon-out {
-    width: 150px !important;
-    height: 150px !important;
-    border-radius: 50%;
+    width: 100px !important;
+    height: 100px !important;
+    border-radius: 30%;
     border: 2px solid black;
 }
 
 .icon-out:hover {
-    background-color: rgb(60, 29, 119);
+    background-color: rgb(194, 236, 255);
     transition: background-color 0.5s ease;
 }
 
@@ -5261,3 +5261,29 @@ details[open] summary ~ * {
 #icon-hashing {
     content: url('../img/jpg/hashing.jpg');
 }
+
+#icon-heap {
+    content: url('../img/jpg/minheap.jpg');
+}
+
+#icon-sorting1 {
+    content: url('../img/jpg/sorting1.jpg');
+}
+
+#icon-mergesort {
+    content: url('../img/jpg/mergesort.jpg');
+}
+
+#icon-heapsort {
+    content: url('../img/jpg/heapsort.jpg');
+}
+
+#icon-quicksort {
+    content: url('../img/jpg/quicksort.jpg');
+}
+
+#icon-right-arrow {
+    content: url('../img/jpg/right-arrow.jpg');
+}
+
+
