@@ -5267,6 +5267,11 @@ details[open] summary ~ * {
     content: url('../img/jpg/bst.jpg');
 }
 
+#icon-heaps {
+    content: url('../img/jpg/heaps.jpg');
+}
+
+
 #icon-stack {
     content: url('../img/jpg/stack.jpg');
 }
