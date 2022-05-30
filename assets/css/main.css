@@ -5288,8 +5288,8 @@ details[open] summary ~ * {
     content: url('../img/jpg/minheap.jpg');
 }
 
-#icon-sorting1 {
-    content: url('../img/jpg/sorting1.jpg');
+#icon-insertion-selection-sort {
+    content: url('../img/jpg/insertion_selection_sort.png');
 }
 
 #icon-mergesort {
