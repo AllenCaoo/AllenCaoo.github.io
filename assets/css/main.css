@@ -5333,6 +5333,11 @@ details[open] summary ~ * {
     content: url('../img/jpg/DFS.jpg')
 }
 
+#icon-A-star {
+    content: url('../img/jpg/A_star.jpg')
+}
+
+
 
 #icon-right-arrow {
     content: url('../img/jpg/right-arrow.jpg');
