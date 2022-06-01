@@ -4918,6 +4918,11 @@ a img {
     user-select: none;
 }
 
+.link:hover {
+    color: rgb(56, 149, 236);
+    transition: color .3s ease-in, background-color .3s ease-in, border-color .3s ease-in;
+}
+
 @media only screen and (min-width:550px) {
     .header-links .link {
         font-size: 20px
@@ -5324,6 +5329,11 @@ details[open] summary ~ * {
     content: url('../img/jpg/dijkstra.jpg')
 }
 
+#icon-DFS {
+    content: url('../img/jpg/DFS.jpg')
+}
+
+
 #icon-right-arrow {
     content: url('../img/jpg/right-arrow.jpg');
 }
@@ -5334,10 +5344,10 @@ details[open] summary ~ * {
 
 .nav-container {
     top: 0;
-    background-color: #000000;
+    background-color: #222121;
     z-index: 2;
     height: 50px;
-    border-bottom: solid;
+    /* border-bottom: solid; */
     display: flex;
     position: sticky;
 }
