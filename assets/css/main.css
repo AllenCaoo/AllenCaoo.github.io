@@ -5308,6 +5308,10 @@ details[open] summary ~ * {
     content: url('../img/jpg/b_tree.jpg')
 }
 
+#icon-LLRB {
+    content: url('../img/jpg/LLRB.jpg')
+}
+
 #icon-right-arrow {
     content: url('../img/jpg/right-arrow.jpg');
 }
