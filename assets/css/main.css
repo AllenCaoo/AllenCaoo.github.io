@@ -5304,6 +5304,10 @@ details[open] summary ~ * {
     content: url('../img/jpg/quicksort.jpg');
 }
 
+#icon-heapsort {
+    content: url('../img/jpg/heapsort.jpg');
+}
+
 #icon-b-tree {
     content: url('../img/jpg/b_tree.jpg')
 }
@@ -5316,6 +5320,9 @@ details[open] summary ~ * {
     content: url('../img/jpg/tries.jpg')
 }
 
+#icon-dijkstras {
+    content: url('../img/jpg/dijkstra.jpg')
+}
 
 #icon-right-arrow {
     content: url('../img/jpg/right-arrow.jpg');
