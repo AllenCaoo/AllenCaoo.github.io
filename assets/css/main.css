@@ -5312,6 +5312,11 @@ details[open] summary ~ * {
     content: url('../img/jpg/LLRB.jpg')
 }
 
+#icon-tries {
+    content: url('../img/jpg/tries.jpg')
+}
+
+
 #icon-right-arrow {
     content: url('../img/jpg/right-arrow.jpg');
 }
