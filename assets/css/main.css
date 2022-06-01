@@ -5304,6 +5304,10 @@ details[open] summary ~ * {
     content: url('../img/jpg/quicksort.jpg');
 }
 
+#icon-b-tree {
+    content: url('../img/jpg/b_tree.jpg')
+}
+
 #icon-right-arrow {
     content: url('../img/jpg/right-arrow.jpg');
 }
